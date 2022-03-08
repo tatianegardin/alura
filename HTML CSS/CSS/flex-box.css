@@ -1,0 +1,46 @@
+.cabecalho{
+    background-color: rgb(71, 68, 68);
+    color: aliceblue;
+    padding: 0.50rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.menu-item{
+    margin: 3px;
+    padding: 3px;
+    list-style: none;
+    border: solid black 2px;
+
+}
+
+.menu{
+    display: flex;
+}
+
+.grid{
+    margin: auto;
+    width: 50%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.box{
+    background-color: blue;
+    color: antiquewhite;
+    border: black solid 2px;
+    margin: 1%;
+    height: 20%;
+    width: 20%;
+}
+
+.grid-1 {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .course {
+    background-color: aqua;
+    
+    width: 31.3%;
+    margin: 1%;
+  }

@@ -1,0 +1,8 @@
+minimo 6 
+ter pelo menos 1 digito 
+ter pelo menos 1 minusculo
+ter pelo menos 1 maiusculo 
+Contém no mínimo 1 caractere especial  !@#$%^&*()-+
+
+
+
